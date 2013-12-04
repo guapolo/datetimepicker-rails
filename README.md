@@ -84,7 +84,7 @@ Just call datetimepicker() with any selector.
 #### HTML
 
 ```html
-<input class="datetimepicker" type="text" >
+<spannput class="datetimepicker" type="text" >
 
 <script type="text/javascript">
     $('.datetimepicker').datetimepicker({
